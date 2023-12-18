@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "text": "Added a new note for me",
+        "title": "Random Title",
+        "note_id": "8b9e1af5-863f-4436-9b5d-1d50a11e7366"
+    },
+    {
+        "text": "Everytbing is working",
+        "title": "Yay",
+        "note_id": "49d5abd5-d973-4e39-b5b2-874282843953"
+    },
+    {
+        "text": "Just testing if it works",
+        "title": "Test",
+        "note_id": "43fc74e7-df4f-4c8f-b50f-5b6babc76da3"
+    }
+]
